@@ -7,7 +7,6 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
 
-
     <com.chaos.view.PinView
         android:id="@+id/firstPinView"
         style="@style/PinWidget.PinView"
